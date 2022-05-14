@@ -1,6 +1,6 @@
 # Animated Todo App
 
-An animated todo app with React Native called "DabTodo"
+An animated todo app with React Native called "DabTodo".
 
 ## Ingredients
 
