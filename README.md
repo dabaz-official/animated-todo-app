@@ -1,5 +1,7 @@
 # Animated Todo App
 
+**Haven't seen anything? This project is still on progress. All the code will be uploaded when it is finished.**
+
 An animated todo app with React Native called "DabTodo".
 
 ## Ingredients
@@ -29,5 +31,4 @@ You can also contact me via
 - [Instagram](https://www.instagram.com/dabaz_luvs_hot_girls/)
 - [Twitter](https://twitter.com/dab_az/)
 - [LinkedIn (InCareer)](https://www.linkedin.cn/incareer/in/diebold-dai-816814177)
-
-[Personal Website](https://dabaz.vercel.app)
+- [Personal Website](https://dabaz.vercel.app)
