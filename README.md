@@ -18,6 +18,8 @@ An animated todo app with React Native called "DabTodo"
   Drawing SVG
 - [**Moti**](https://moti.fyi/) - 
   Helper module for Reanimated 2
+- [**React Native Checkbox Reanimated**](https://github.com/craftzdog/react-native-checkbox-reanimated) - 
+  Animated checkbox built with Reanimated v2
 
 ## Want to work with me?
 
